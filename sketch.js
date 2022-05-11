@@ -3,7 +3,7 @@ const LARGURA_TELA = 600
 const ALTURA_TELA = 400
 
 // variaveis para a bolinha
-let raio = 100
+let raio = 15
 let diametro = 2 * raio
 
 // variaveis para bolinha
